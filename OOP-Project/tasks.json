@@ -1,0 +1,301 @@
+{
+    "task_count": 8,
+    "tasks": [
+        {
+            "b": [
+                0.0,
+                0.0
+            ],
+            "completed_at": 1775479698,
+            "condition_number": 2.769230769230769,
+            "created_at": 1775479688,
+            "description": "norm 2.769",
+            "id": 1,
+            "log": [
+                "Task created with ID: 1",
+                "Task started",
+                "Task completed successfully"
+            ],
+            "matrix": [
+                [
+                    7.0,
+                    2.0
+                ],
+                [
+                    1.0,
+                    4.0
+                ]
+            ],
+            "method": "gauss",
+            "noisy_solution": [
+                0.0,
+                0.0
+            ],
+            "sensitivity": 0.0,
+            "solution": [
+                0.0,
+                0.0
+            ],
+            "status": "COMPLETED"
+        },
+        {
+            "b": [
+                0.0,
+                0.0
+            ],
+            "completed_at": 1775479698,
+            "condition_number": 2.769230769230769,
+            "created_at": 1775479688,
+            "description": "sec",
+            "id": 2,
+            "log": [
+                "Task created with ID: 2",
+                "Task started",
+                "Task completed successfully"
+            ],
+            "matrix": [
+                [
+                    7.0,
+                    2.0
+                ],
+                [
+                    1.0,
+                    4.0
+                ]
+            ],
+            "method": "lu",
+            "noisy_solution": [
+                0.0,
+                0.0
+            ],
+            "sensitivity": 0.0,
+            "solution": [
+                0.0,
+                0.0
+            ],
+            "status": "COMPLETED"
+        },
+        {
+            "b": [
+                0.0,
+                0.0
+            ],
+            "completed_at": 1775479752,
+            "condition_number": 2.769230769230769,
+            "created_at": 1775479723,
+            "description": "norm 2.769",
+            "id": 3,
+            "log": [
+                "Task created with ID: 3",
+                "Task started",
+                "Task completed successfully"
+            ],
+            "matrix": [
+                [
+                    7.0,
+                    2.0
+                ],
+                [
+                    1.0,
+                    4.0
+                ]
+            ],
+            "method": "gauss",
+            "noisy_solution": [
+                0.0,
+                0.0
+            ],
+            "sensitivity": 0.0,
+            "solution": [
+                0.0,
+                0.0
+            ],
+            "status": "COMPLETED"
+        },
+        {
+            "b": [
+                0.0,
+                0.0
+            ],
+            "completed_at": 1775479752,
+            "condition_number": 2.769230769230769,
+            "created_at": 1775479723,
+            "description": "sec",
+            "id": 4,
+            "log": [
+                "Task created with ID: 4",
+                "Task started",
+                "Task completed successfully"
+            ],
+            "matrix": [
+                [
+                    7.0,
+                    2.0
+                ],
+                [
+                    1.0,
+                    4.0
+                ]
+            ],
+            "method": "lu",
+            "noisy_solution": [
+                0.0,
+                0.0
+            ],
+            "sensitivity": 0.0,
+            "solution": [
+                0.0,
+                0.0
+            ],
+            "status": "COMPLETED"
+        },
+        {
+            "b": [
+                0.0,
+                0.0
+            ],
+            "completed_at": 1775479752,
+            "condition_number": 2.769230769230769,
+            "created_at": 1775479736,
+            "description": "norm 2.769",
+            "id": 5,
+            "log": [
+                "Task created with ID: 5",
+                "Task started",
+                "Task completed successfully"
+            ],
+            "matrix": [
+                [
+                    7.0,
+                    2.0
+                ],
+                [
+                    1.0,
+                    4.0
+                ]
+            ],
+            "method": "gauss",
+            "noisy_solution": [
+                0.0,
+                0.0
+            ],
+            "sensitivity": 0.0,
+            "solution": [
+                0.0,
+                0.0
+            ],
+            "status": "COMPLETED"
+        },
+        {
+            "b": [
+                0.0,
+                0.0
+            ],
+            "completed_at": 1775479752,
+            "condition_number": 2.769230769230769,
+            "created_at": 1775479736,
+            "description": "sec",
+            "id": 6,
+            "log": [
+                "Task created with ID: 6",
+                "Task started",
+                "Task completed successfully"
+            ],
+            "matrix": [
+                [
+                    7.0,
+                    2.0
+                ],
+                [
+                    1.0,
+                    4.0
+                ]
+            ],
+            "method": "lu",
+            "noisy_solution": [
+                0.0,
+                0.0
+            ],
+            "sensitivity": 0.0,
+            "solution": [
+                0.0,
+                0.0
+            ],
+            "status": "COMPLETED"
+        },
+        {
+            "b": [
+                0.0,
+                0.0
+            ],
+            "completed_at": 1775479752,
+            "condition_number": 2.769230769230769,
+            "created_at": 1775479741,
+            "description": "norm 2.769",
+            "id": 7,
+            "log": [
+                "Task created with ID: 7",
+                "Task started",
+                "Task completed successfully"
+            ],
+            "matrix": [
+                [
+                    7.0,
+                    2.0
+                ],
+                [
+                    1.0,
+                    4.0
+                ]
+            ],
+            "method": "gauss",
+            "noisy_solution": [
+                0.0,
+                0.0
+            ],
+            "sensitivity": 0.0,
+            "solution": [
+                0.0,
+                0.0
+            ],
+            "status": "COMPLETED"
+        },
+        {
+            "b": [
+                0.0,
+                0.0
+            ],
+            "completed_at": 1775479752,
+            "condition_number": 2.769230769230769,
+            "created_at": 1775479741,
+            "description": "sec",
+            "id": 8,
+            "log": [
+                "Task created with ID: 8",
+                "Task started",
+                "Task completed successfully"
+            ],
+            "matrix": [
+                [
+                    7.0,
+                    2.0
+                ],
+                [
+                    1.0,
+                    4.0
+                ]
+            ],
+            "method": "lu",
+            "noisy_solution": [
+                0.0,
+                0.0
+            ],
+            "sensitivity": 0.0,
+            "solution": [
+                0.0,
+                0.0
+            ],
+            "status": "COMPLETED"
+        }
+    ]
+}
