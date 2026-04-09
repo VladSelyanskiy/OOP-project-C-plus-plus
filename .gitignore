@@ -1,3 +1,31 @@
+# Visual Studio временные и пользовательские файлы
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Результаты компиляции
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Файлы сборки и отладки
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.lib
+
+# Другие временные файлы
+*.log
+*.tmp
+*.cache
+
 # Prerequisites
 *.d
 
